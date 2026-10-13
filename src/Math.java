@@ -20,7 +20,7 @@ class Math  {
 
         if(x>y) {
 
-         c = x+y;
+         c = x-y;
             System.out.println( "x is grater than y  "+c);
         }
         else if ( x==y) {

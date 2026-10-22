@@ -1,7 +1,7 @@
 class Main  {
 
     static void main() {
-        CalculatorExample.usingSwitch();
+       Loops.usingLoops();
     }
 
 }

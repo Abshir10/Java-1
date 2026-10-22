@@ -1,5 +1,5 @@
 public class CalculatorExample {
-       static char operator = '-'; // Can be '+' or '-'
+       static char operator = '+'; // Can be '+' or '-'
        static int num1 = 12;
        static int num2 = 5;
        static int result = 0;
